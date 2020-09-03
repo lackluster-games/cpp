@@ -2,8 +2,8 @@
  *  These examples have been tested on Manjaro 20.1 using:
  *      gcc:    10.2.0
  *      clang:  10.0.1
- * Blog post covering code can be found: 
- * All example code is hosted on github at: 
+ * Blog post covering code can be found: https://lacklustergames.blogspot.com/2020/09/quick-look-at-c-preprocessor.html   
+ * All example code is hosted on github at: https://github.com/lackluster-games/cpp 
  *
  * This example shows the use of some predefined macros.
  * not every single one of these macros may be defined for every single C compiler.
@@ -39,7 +39,7 @@ int main(void) {
     printf("current date is: %s\n",__DATE__);
 
     //get the time at which the C preprocessor started running using '__TIME__'
-    printf("the preprocessor started running at: %s\n",__TIME__);
+    printf("the preprocessor started running at: https://github.com/lackluster-games/cpp %s\n",__TIME__);
 
     return 0;
 }

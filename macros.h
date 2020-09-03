@@ -1,6 +1,6 @@
 /*  This is the macro file for my expoloration of the c preprossesor.
- *  example code can be found:
- *  blog post for code can be found: 
+ *  example code can be found: https://lacklustergames.blogspot.com/2020/09/quick-look-at-c-preprocessor.html  
+ *  blog post for code can be found: https://lacklustergames.blogspot.com/2020/09/quick-look-at-c-preprocessor.html   
  */
 
 

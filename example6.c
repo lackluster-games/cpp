@@ -2,8 +2,8 @@
  *  These examples have been tested on Manjaro 20.1 using:
  *      gcc:    10.2.0
  *      clang:  10.0.1
- * Blog post covering code can be found: 
- * All example code is hosted on github at: 
+ * Blog post covering code can be found: https://lacklustergames.blogspot.com/2020/09/quick-look-at-c-preprocessor.html   
+ * All example code is hosted on github at: https://github.com/lackluster-games/cpp 
  *
  * In this example we explore using the preprocessor to turn features on/off.
  * We use a simple example of turning debug/error messaging on/off
