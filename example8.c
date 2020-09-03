@@ -1,4 +1,4 @@
-/*  Example 1 from my exploration of the C preprocessor.
+/*  Example 8 from my exploration of the C preprocessor.
  *  These examples have been tested on Manjaro 20.1 using:
  *      gcc:    10.2.0
  *      clang:  10.0.1
